@@ -22,3 +22,11 @@ Occhio a non colpire gli ostacoli se non vuoi perdere!!!
 
 ![gameOver](https://user-images.githubusercontent.com/61046970/110099083-335ef580-7da1-11eb-90b5-28fecd024ed3.png)
 
+Componenti del gruppo:
+La Valle Nicolò: team leader
+Seimandi Alessandro: programmatore
+Alladio Michele: programmatore
+Forneris Samuele: grafico
+
+
+IIT, Associazione Italiana Sclerosi Multipla, Università di Genova, Wondertech.
