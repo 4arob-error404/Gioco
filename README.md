@@ -1,4 +1,5 @@
-# SPEEDHIGWAY
+![cooltext378252683269641-removebg-preview](https://user-images.githubusercontent.com/72200995/110104365-5c828480-7da7-11eb-8aa6-4867c4a71823.png)
+
 Lo scopo del gioco è quello di allenare l'equilibrio di una persona.
 Rimanendo fermi sul posto bisogna infatti spostare il busto a destra e a sinistra per schivare degli ostacoli che compaiono sullo schermo
 Il giocatore deve essere munito di un marker di colore rosso da attacare sul petto.
