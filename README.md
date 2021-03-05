@@ -2,7 +2,7 @@
 Lo scopo del gioco è quello di allenare l'equilibrio di una persona.
 Rimanendo fermi sul posto bisogna infatti spostare il busto a destra e a sinistra per schivare degli ostacoli che compaiono sullo schermo
 Il giocatore deve essere munito di un marker di colore rosso da attacare sul petto.
-Il gioco sfrutta due librerie: opencv e PyGame.
+Il gioco sfrutta due librerie: OpenCV e PyGame.
 
 ![pygame](https://user-images.githubusercontent.com/61046970/110098840-ec710000-7da0-11eb-83b8-0da86a2f2e64.png)
 ![opencv](https://user-images.githubusercontent.com/61046970/110098845-eda22d00-7da0-11eb-9bb6-d17dafc2c0d3.png)
