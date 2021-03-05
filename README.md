@@ -28,5 +28,8 @@ Seimandi Alessandro: programmatore
 Alladio Michele: programmatore
 Forneris Samuele: grafico
 
-
-IIT, Associazione Italiana Sclerosi Multipla, Università di Genova, Wondertech.
+#Ringraziamenti
+IIT (Carlo Canali, Giacinto Barresi)
+Associazione Italiana Sclerosi Multipla (Jessica Podda)
+Università di Genova (Prof. Riccardo Berta)
+Wondertech (Giuseppe Gioco, Ivan Carmosino)
