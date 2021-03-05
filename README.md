@@ -14,6 +14,9 @@ Il gioco sfrutta due librerie: OpenCV e PyGame.
 Gli Sprites e le PixelArt sono state disegnate con:
 https://make8bitart.com/
 
+https://github.com/4arob-error404/Immagini
+
+# Funzionamento gioco:
 
 Tramite opencv, libreria che utilizza la fotocamera del nostro dispositivo, si rilevano gli oggetti di colore rosso e si ricavano le coordinate di questi ultimi.
 
