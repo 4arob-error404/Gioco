@@ -5,8 +5,15 @@ Rimanendo fermi sul posto bisogna infatti spostare il busto a destra e a sinistr
 Il giocatore deve essere munito di un marker di colore rosso da attacare sul petto.
 Il gioco sfrutta due librerie: OpenCV e PyGame.
 
-![pygame](https://user-images.githubusercontent.com/61046970/110098840-ec710000-7da0-11eb-83b8-0da86a2f2e64.png)
-![opencv](https://user-images.githubusercontent.com/61046970/110098845-eda22d00-7da0-11eb-9bb6-d17dafc2c0d3.png)
+
+# Software utilizzati
+![pygame](https://user-images.githubusercontent.com/61046970/110098840-ec710000-7da0-11eb-83b8-0da86a2f2e64.png):     https://www.pygame.org/news
+
+![opencv](https://user-images.githubusercontent.com/61046970/110098845-eda22d00-7da0-11eb-9bb6-d17dafc2c0d3.png):     https://opencv.org/
+
+Gli Sprites e le PixelArt sono state disegnate con:
+https://make8bitart.com/
+
 
 Tramite opencv, libreria che utilizza la fotocamera del nostro dispositivo, si rilevano gli oggetti di colore rosso e si ricavano le coordinate di questi ultimi.
 
