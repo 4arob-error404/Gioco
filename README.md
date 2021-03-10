@@ -24,7 +24,7 @@ Tramite opencv, libreria che utilizza la fotocamera del nostro dispositivo, si r
 
 Sfruttando le coordinate rilevate si sposta una macchina sull'asse delle ascisse tramite la libreria PyGame.
 Gli ostacoli da evitare sono file di macchine che vengono generate sullo schermo in posizioni e con skins randomiche.
-Ogni volta che il giocatore supera un ostacolo viene incrementato il punteggio ma ATTENZIONE, la velocità degli ostacoli aumenta!!!
+Ogni volta che il giocatore supera un ostacolo viene incrementato il punteggio, ma ATTENZIONE: la velocità degli ostacoli aumenta!!!
 
 ![immagineGioco](https://user-images.githubusercontent.com/61046970/110602210-0be3a080-8186-11eb-9850-bb9e0551a921.png)
 
