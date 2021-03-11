@@ -26,12 +26,12 @@ Sfruttando le coordinate rilevate si sposta una macchina sull'asse delle ascisse
 Gli ostacoli da evitare sono file di macchine che vengono generate sullo schermo in posizioni e con skins randomiche.
 Ogni volta che il giocatore supera un ostacolo viene incrementato il punteggio, ma ATTENZIONE: la velocità degli ostacoli aumenta!!!
 
-![immagineGioco](https://user-images.githubusercontent.com/61046970/110602210-0be3a080-8186-11eb-9850-bb9e0551a921.png)
+![immagineGioco](https://user-images.githubusercontent.com/61046970/110760240-cb9c2500-824e-11eb-9e97-16f27ef51b9f.png)
 
 Sei troppo lento? Non ti preoccupare, abbiamo pensato che magari potrebbe farti comodo un po' di turbo.
 
 ![Turbo](https://user-images.githubusercontent.com/61046970/110602632-7ac0f980-8186-11eb-9d46-24f1dd4eec3f.png) 
-![turbo](https://user-images.githubusercontent.com/61046970/110602666-857b8e80-8186-11eb-8569-b871e1440703.png)
+![turbo](https://user-images.githubusercontent.com/61046970/110760264-d2c33300-824e-11eb-9036-ae991d3d5404.png)
 
 Hai tre vite, ma occhio a non colpire gli ostacoli se non vuoi perdere!!!
 
@@ -42,7 +42,6 @@ Hai tre vite, ma occhio a non colpire gli ostacoli se non vuoi perdere!!!
 2. Seimandi Alessandro: programmatore
 3. Alladio Michele: programmatore
 4. Forneris Samuele: grafico
-
 
 # Ringraziamenti
 IIT (Carlo Canali, Giacinto Barresi)
