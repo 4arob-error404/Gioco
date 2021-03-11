@@ -1,3 +1,9 @@
+'''
+Authors: Michele Alladio, Nicolò La Valle, Alessandro Seimandi, Samuele Forneris
+Descrizione:
+menù del videogioco
+'''
+
 from numpy import diff
 import pygame 
 import sys 
