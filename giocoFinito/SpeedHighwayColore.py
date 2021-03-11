@@ -1,9 +1,5 @@
 '''
 Author: Michele Alladio, Samuele Forneris, Alessandro Seimandi, Nicolò La Valle
-Descrizione:
-Codice che implementa la cattura di oggetti di colore rosso tramite la libreria opencv.
-Viene ricavata in modo ciclico la coordinata x dell'ogetto di colore rosso e viene utilizzata
-per far muovere una macchina mediante la libreria PyGame.
 '''
 
 import pygame, sys, cv2, random,  time
