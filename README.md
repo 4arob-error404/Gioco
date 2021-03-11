@@ -26,16 +26,16 @@ Sfruttando le coordinate rilevate si sposta una macchina sull'asse delle ascisse
 Gli ostacoli da evitare sono file di macchine che vengono generate sullo schermo in posizioni e con skins randomiche.
 Ogni volta che il giocatore supera un ostacolo viene incrementato il punteggio, ma ATTENZIONE: la velocità degli ostacoli aumenta!!!
 
-![immagineGioco](https://user-images.githubusercontent.com/61046970/110760240-cb9c2500-824e-11eb-9e97-16f27ef51b9f.png)
+![immagineGioco](https://user-images.githubusercontent.com/61046970/110769162-300fb200-8258-11eb-8c44-b902fa0e04b3.png)
 
 Sei troppo lento? Non ti preoccupare, abbiamo pensato che magari potrebbe farti comodo un po' di turbo.
 
 ![Turbo](https://user-images.githubusercontent.com/61046970/110602632-7ac0f980-8186-11eb-9d46-24f1dd4eec3f.png) 
-![turbo](https://user-images.githubusercontent.com/61046970/110760264-d2c33300-824e-11eb-9036-ae991d3d5404.png)
+![turbo](https://user-images.githubusercontent.com/61046970/110769245-40c02800-8258-11eb-8125-62861bb0d9e3.png)
 
 Il punteggio viene calcolato in base alle file di macchine che superi e in base alla quantità di turbo che sfrutti.
 
-![punteggio](https://user-images.githubusercontent.com/61046970/110760708-45cca980-824f-11eb-8f14-b152e49765c3.png)
+![punteggio](https://user-images.githubusercontent.com/61046970/110769210-39991a00-8258-11eb-8eb2-92f3ab046dc2.png)
 
 Hai tre vite.
 
