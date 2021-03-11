@@ -7,7 +7,7 @@ Il gioco sfrutta due librerie: OpenCV e PyGame.
 
 
 # Software utilizzati
-![pygame](https://user-images.githubusercontent.com/61046970/110098840-ec710000-7da0-11eb-83b8-0da86a2f2e64.png):     https://www.pygame.org/news
+![alt text](https://user-images.githubusercontent.com/61046970/110098840-ec710000-7da0-11eb-83b8-0da86a2f2e64.png):     https://www.pygame.org/news
 
 ![opencv](https://user-images.githubusercontent.com/61046970/110098845-eda22d00-7da0-11eb-9bb6-d17dafc2c0d3.png):     https://opencv.org/
 
