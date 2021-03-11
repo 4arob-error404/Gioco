@@ -33,7 +33,15 @@ Sei troppo lento? Non ti preoccupare, abbiamo pensato che magari potrebbe farti 
 ![Turbo](https://user-images.githubusercontent.com/61046970/110602632-7ac0f980-8186-11eb-9d46-24f1dd4eec3f.png) 
 ![turbo](https://user-images.githubusercontent.com/61046970/110760264-d2c33300-824e-11eb-9036-ae991d3d5404.png)
 
-Hai tre vite, ma occhio a non colpire gli ostacoli se non vuoi perdere!!!
+Il punteggio viene calcolato in base alle file di macchine che superi e in base alla quantità di turbo che sfrutti.
+
+![punteggio](https://user-images.githubusercontent.com/61046970/110760708-45cca980-824f-11eb-8f14-b152e49765c3.png)
+
+Hai tre vite.
+
+![vita](https://user-images.githubusercontent.com/61046970/110760420-fbe3c380-824e-11eb-99f0-e07c7e04e85e.png)
+
+Ma occhio a non colpire gli ostacoli se non vuoi perdere!!!
 
 ![gameOver](https://user-images.githubusercontent.com/61046970/110099083-335ef580-7da1-11eb-90b5-28fecd024ed3.png)
 
