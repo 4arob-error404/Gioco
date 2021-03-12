@@ -1,3 +1,6 @@
+!!ATTENZIONE!!
+Non scaricare il gioco da GitHub, usare il link indicato sotto
+
 INSTALLAZIONE DEL GIOCO
 1. Scaricare il gioco da questo link: https://drive.google.com/file/d/1i4U7kqQ9xKEX8FWGrRPi49UncLlIxgI_/view?usp=sharing
 2. Avviare SpeedHigway.exe
