@@ -45,6 +45,22 @@ Ma occhio a non colpire gli ostacoli se non vuoi perdere!!!
 
 ![gameOver](https://user-images.githubusercontent.com/61046970/110099083-335ef580-7da1-11eb-90b5-28fecd024ed3.png)
 
+Prima di iniziare a giocare ricordati di scegliere le impostazioni dal menù di gioco.
+
+![menu](https://user-images.githubusercontent.com/61046970/110904746-bcc67880-8309-11eb-8d2a-3ae8d4465c5b.png)
+
+Puoi scegliere due modi di giocare: colore se vuoi sfruttare il riconoscimento del colore rosso tramite fotocamera, oppure frecce se preferisci giocare con le freccette della tastiera.
+Puoi scegliere tra due modalità: facile e difficile. A seconda della scelta le macchine partiranno con una velocità differente.
+Se non ti ricordi i tuoi risultati di gioco abbiamo creato una classifica per te, basta cliccare su classification nel menù pre-partita. Per poter vedere la classifica devi però aver giocato almeno cinque volte.
+
+![classifica](https://user-images.githubusercontent.com/61046970/110905103-40806500-830a-11eb-949a-f217bfbedc41.png)
+
+Se non ti piace la nostra musica non fa nulla, non ci offendiamo, ma puoi sempre disattivarla.
+
+![muto](https://user-images.githubusercontent.com/61046970/110905277-850c0080-830a-11eb-9e49-18210cdb716b.png)
+
+Clicca play per iniziare a giocare, speriamo che ti piaccia il nostro gioco!
+
 # Componenti del gruppo:
 1. La Valle Nicolò: team leader
 2. Seimandi Alessandro: programmatore
