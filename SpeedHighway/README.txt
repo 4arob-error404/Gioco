@@ -5,6 +5,6 @@ INSTALLAZIONE DEL GIOCO
 
 
 GAME INSTALLATION
-1. Download the game from this link
+1. Download the game from this link: https://drive.google.com/file/d/1i4U7kqQ9xKEX8FWGrRPi49UncLlIxgI_/view?usp=sharing
 2. Start SpeedHigway.exe
 3. Have fun
